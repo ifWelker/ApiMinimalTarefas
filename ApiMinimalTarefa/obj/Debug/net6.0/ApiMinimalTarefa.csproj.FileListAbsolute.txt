@@ -30,3 +30,14 @@ C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\obj\Debug\net6.0\r
 C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\obj\Debug\net6.0\ApiMinimalTarefa.pdb
 C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\obj\Debug\net6.0\ApiMinimalTarefa.genruntimeconfig.cache
 C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\obj\Debug\net6.0\ref\ApiMinimalTarefa.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\fabio\source\repos\ApiMinimalTarefa\ApiMinimalTarefa\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
